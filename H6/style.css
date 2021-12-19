@@ -1,0 +1,142 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f5f5;
+}
+.box1 {
+    width: 250px;
+    height: 250px;
+    border: solid 2px;
+    background-color: #01bef4;
+    color: white;
+    text-align: center;
+    display:inline-block;
+    margin-left: 80px;
+    }
+
+.box2 {
+    width: 250px;
+    height: 250px;
+    border: none 2px;
+    background-color:white;
+    color:#0059a6;
+    text-align: center;
+    display:inline-block;
+    margin: 20px;
+   
+}
+.box3 {
+    width: 250px;
+    height: 250px;
+    border: none 2px;
+    background-color:white;
+    color: #22318e;
+    text-align: center;
+    display:inline-block;
+   margin-right: 20px;
+   
+}
+.box4 {
+    width: 250px;
+    height: 250px;
+    border: none 2px;
+    background-color:white;
+    color:#22318e;
+    text-align: center;
+    display:inline-block;
+   margin-right: 60px;
+   
+}
+.box5 {
+    width: 250px;
+    height: 250px;
+    border: none 2px;
+    background-color: white;
+    color:#02b3f0;
+    text-align: center;
+    display:inline-block;
+    margin-left: 80px;
+}
+.box6 {
+    width: 250px;
+    height: 250px;
+    border: none 2px;
+    background-color: white;
+    color: #02b3f0;
+    text-align: center;
+    display:inline-block;
+   margin-left: 25px;
+}
+.box7 {
+    width: 250px;
+    height: 250px;
+    border: none 2px;
+    background-color:white;
+    color: #223290;
+    text-align: center;
+    display:inline-block;
+   margin-left:20px;
+}
+.box8 {
+    width: 250px;
+    height: 250px;
+    border: none 2px;
+    background-color:white;
+    color:#141562;
+    text-align: center;
+    display:inline-block;
+  margin: 20px;
+}
+.img-1 {
+    width:50px;
+    height: 50px;
+}
+.img-2 {
+    width: 50px;
+    height: 50px;
+}
+.img-3 {
+    width:50px;
+    height: 50px;
+}
+.img-4 {
+    width:50px;
+    height: 50px;
+}
+.img-5 {
+    width:50px;
+    height: 50px;
+}
+.img-6 {
+    width:50px;
+    height: 50px;
+}.img-7 {
+    width:50px;
+    height: 50px;
+}.img-8 {
+    width:50px;
+    height: 50px;
+}
+.content {
+    padding: 40px;
+}
+.title {
+    width: 10px;
+    display:inline-block;
+    margin-left: 80px;
+    margin-top: px;
+    margin-bottom: 20px;
+
+}
+.description {
+    margin-left:200px;
+    width: 820px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.box p {
+    color: white;
+}
+
+
+
